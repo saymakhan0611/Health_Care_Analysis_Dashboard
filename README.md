@@ -5,14 +5,14 @@
 - <a href="https://github.com/saymakhan0611/Health_Care_Analysis_Dashboard/blob/main/Dataset.xlsx">Dataset</a>
 
 ### Key KPIs
-• Number of Patients – Displays the distinct number of patients based on the selected filters. 
-•	Total Revenue – Shows the total hospital revenue generated from patient billing. 
-•	Average Bill Amount – Calculates the average bill amount per patient. 
-•	Highest Bill Amount – Identifies the maximum bill amount recorded. 
-•	Average Length of Stay – Shows the average number of days patients stay in the hospital. 
-•	Unique Medical Conditions – Counts the number of different medical conditions. 
-•	Unique Treatment Types – Shows the number of different treatments. 
-•	Average Patient Age – Calculates the average age of patients. 
+- Number of Patients – Displays the distinct number of patients based on the selected filters. 
+- Total Revenue – Shows the total hospital revenue generated from patient billing. 
+- Average Bill Amount – Calculates the average bill amount per patient. 
+-	Highest Bill Amount – Identifies the maximum bill amount recorded. 
+-	Average Length of Stay – Shows the average number of days patients stay in the hospital. 
+-	Unique Medical Conditions – Counts the number of different medical conditions. 
+-	Unique Treatment Types – Shows the number of different treatments. 
+-	Average Patient Age – Calculates the average age of patients. 
 
 -Dashboard Interaction <a href="https://github.com/saymakhan0611/Health_Care_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
