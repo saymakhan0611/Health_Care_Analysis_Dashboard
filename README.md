@@ -1,5 +1,5 @@
 # Health_Care_Analysis_Dashboard
-## I have developed an interactive Healthcare Analysis Dashboard built in Microsoft Excel to analyse patient information, hospital revenue, treatments, medical conditions, and overall hospital performance. This process involved several stages, including data pre-processing, data cleaning, data visualization.
+## I have developed an interactive Healthcare Analysis Dashboard built in Microsoft Excel to analyse patient information, hospital revenue, treatments, medical conditions, and overall hospital performance. This process involved several stages, including data pre-processing, data cleaning, and data visualization.
 
 ## Dataset used
 - <a href="https://github.com/saymakhan0611/Health_Care_Analysis_Dashboard/blob/main/Dataset.xlsx">Dataset</a>
@@ -48,4 +48,19 @@ The final dashboard allows users to quickly identify trends in patient volume, h
 
 ### Dashboard
 <img width="1797" height="1017" alt="Dashboard" src="https://github.com/user-attachments/assets/9c7e1e0d-f198-422f-9cf0-6ab44d57f548" />
+
+### Key Insights
+- Patient Volume: The dashboard provides a clear view of the total number of patients and how patient volume changes across different years and time periods.
+- Revenue Performance: Year-wise revenue analysis helps identify periods with higher and lower hospital revenue and understand overall financial performance.
+- Average Billing: The Average Bill Amount shows the typical billing value per patient and helps compare billing patterns across treatments and medical conditions.
+- Length of Stay: The Average Length of Stay helps identify how long patients generally remain hospitalized and can indicate differences between medical conditions and treatments.
+- Medical Conditions: Patient distribution by medical condition highlights which conditions contribute the highest number of hospital visits.
+- Treatment Analysis: Comparing patients and average bills by treatment helps identify treatments with higher patient demand and higher billing values.
+- Gender Analysis: Gender-wise patient analysis provides insights into the distribution of male and female patients within the hospital dataset.
+- Yearly Trends: Year-over-year analysis helps identify changes in patient volume, revenue, average billing, and average stay.
+- Interactive Analysis: Slicers and timeline filters allow users to analyze the dashboard dynamically by year, month, gender, medical condition, and other categories.
+  
+### Project Conclusion
+The Healthcare Analysis Dashboard successfully transforms raw patient and hospital data into an interactive and easy-to-understand analytical report. The dashboard combines KPIs, PivotTables, charts, slicers, and analysis to provide a complete view of patient activity, revenue, treatment patterns, medical conditions, billing, and hospital stay.
+
 
