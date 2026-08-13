@@ -14,7 +14,7 @@
 -	Unique Treatment Types – Shows the number of different treatments. 
 -	Average Patient Age – Calculates the average age of patients. 
 
--Dashboard Interaction <a href="https://github.com/saymakhan0611/Health_Care_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/saymakhan0611/Health_Care_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ### Process Description
 1. Data Collection
